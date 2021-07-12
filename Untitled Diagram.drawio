@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T02:25:19.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Q00hTKhKz4TuALb0j2wE" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T03:57:39.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="vtOPJG62GwwpSoEtbmbM" version="14.8.5" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -93,6 +93,27 @@
         </mxCell>
         <mxCell id="60da8b9f42644d3a-38" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Postventa&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BF639A;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1379" y="545" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGNgh5ibVEwYuWToXtR-3" value="&lt;span style=&quot;font-size: 27px ; font-weight: 700 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;Costo total por renta (5 años) 229,355 $ (48%)&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="668" y="1149" width="417" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGNgh5ibVEwYuWToXtR-5" value="&lt;div&gt;&lt;b style=&quot;font-size: 27px ; color: rgb(26 , 26 , 26)&quot;&gt;Renta Anual primer año 43,200$&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="316" y="1000" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGNgh5ibVEwYuWToXtR-6" value="&lt;div&gt;&lt;b style=&quot;font-size: 27px ; color: rgb(26 , 26 , 26)&quot;&gt;Renta Anual segundo año 44,496$&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="506" y="990" width="181" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGNgh5ibVEwYuWToXtR-7" value="&lt;div&gt;&lt;b style=&quot;font-size: 27px ; color: rgb(26 , 26 , 26)&quot;&gt;Renta Anual tercer año 45,831$&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="715" y="980" width="181" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGNgh5ibVEwYuWToXtR-8" value="&lt;div&gt;&lt;b style=&quot;font-size: 27px ; color: rgb(26 , 26 , 26)&quot;&gt;Renta Anual cuarto año 47,206$&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="918" y="960" width="181" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGNgh5ibVEwYuWToXtR-14" value="&lt;div&gt;&lt;b style=&quot;font-size: 27px ; color: rgb(26 , 26 , 26)&quot;&gt;Renta Anual quinto año 48,622$&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="950" width="181" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGNgh5ibVEwYuWToXtR-18" value="&lt;span style=&quot;font-size: 27px ; background-color: rgb(126 , 166 , 224)&quot;&gt;&lt;b&gt;Costo total por Hipoteca (5 años) 300,900 $ (63%)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#6C8EBF;fillColor=#DAE8FC;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="676" y="840" width="444" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
